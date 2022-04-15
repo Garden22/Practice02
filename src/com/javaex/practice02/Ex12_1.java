@@ -37,6 +37,7 @@ public class Ex12_1 {
 				System.out.println("결과는: " + num1 / num2);
 				
 			}
+			
 		} else {
 			System.out.println("계산할 수 없는 기호입니다.");
 			
