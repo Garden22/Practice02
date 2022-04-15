@@ -18,7 +18,7 @@ public class Ex11 {
 			case "o":
 			case "u":
 			case "y":
-				System.out.println("모읍입니다.");
+				System.out.println("모음입니다.");
 				break;
 				
 			default:
